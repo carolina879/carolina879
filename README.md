@@ -58,9 +58,7 @@ experiência com python, java, c#, html, css, javascript e php, além de banco d
   </a>
 </p>
 
-### 🌐 projetos ao vivo
-- [Portfolio Pessoal](#) 🔗 (em breve)  
-- [App de Gestão de Tarefas](#) 🔗 (em desenvolvimento)  
+
 
 ---
 
