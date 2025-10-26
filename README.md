@@ -1,61 +1,66 @@
-<h1 align="center">👋 Olá, eu sou Carolina Deschamps dos Santos</h1>
+<h1 align="center">👋 Olá! Eu sou <strong>Carolina Deschamps dos Santos</strong></h1>
+
+<p align="center">
+  💻 Estudante de <strong>Sistemas de Informação</strong> na <strong>PUC Minas</strong>  
+  🌱 Apaixonada por tecnologia, inovação e aprendizado contínuo  
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carolina-deschamps-dos-santos-11b811365" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:carolina.deschamps@sga.pucminas.br">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
   <a href="https://www.instagram.com/ds.caroll" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/carolina879/CarolinadeschampsdosSantosCurriculo.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+    <img src="https://img.shields.io/badge/Currículo-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo" />
   </a>
 </p>
 
 ---
 
-### 👩‍💻 Sobre mim
+## 👩‍💻 Sobre mim
 
 Sou estudante de **Sistemas de Informação na PUC Minas**, com interesse em **desenvolvimento web e de sistemas**.  
-Busco aplicar meus conhecimentos em linguagens como **Python, Java, C#, HTML, CSS, JavaScript e PHP**, além de práticas com **banco de dados, versionamento de código (Git/GitHub)** e **metodologias ágeis**.  
-Tenho curiosidade constante por tecnologia, gosto de aprender novas ferramentas e quero crescer na área de TI com foco em soluções práticas e criativas.
+Tenho experiência com **Python, Java, C#, HTML, CSS, JavaScript e PHP**, além de prática com **banco de dados**, **versionamento de código (Git/GitHub)** e **metodologias ágeis**.  
+Sou curiosa, gosto de aprender novas ferramentas e busco crescer na área de TI criando soluções práticas e criativas.
 
 ---
 
-### ⚙️ Tecnologias e ferramentas que uso
+## ⚙️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,cs,git,github,vscode,figma,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,cs,git,github,vscode,figma,mysql" alt="Tecnologias" />
 </p>
 
 ---
 
-### 📊 Minhas estatísticas no GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-![Carolina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carolina879&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolina879&layout=compact&theme=tokyonight&hide_border=true)
-
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=carolina879&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub da Carolina" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina879&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
 ---
 
-### 🌟 Repositórios em destaque
+## 🌟 Repositórios em Destaque
 
-<a href="https://github.com/carolina879">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carolina879&repo=portfolio-site&theme=tokyonight" />
-</a>
-<a href="https://github.com/carolina879">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carolina879&repo=meu-projeto&theme=tokyonight" />
-</a>
+<p align="center">
+  <a href="https://github.com/carolina879/portfolio-site">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carolina879&repo=portfolio-site&theme=tokyonight" alt="Repositório: Portfolio Site" />
+  </a>
+  <a href="https://github.com/carolina879/meu-projeto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carolina879&repo=meu-projeto&theme=tokyonight" alt="Repositório: Meu Projeto" />
+  </a>
+</p>
 
 ---
 
-### 🌱 O que estou aprendendo agora
+## 🌱 Atualmente Estou Aprendendo
 
 - Desenvolvimento web (HTML, CSS, JavaScript)  
 - Lógica de programação e estruturas de dados  
@@ -64,13 +69,12 @@ Tenho curiosidade constante por tecnologia, gosto de aprender novas ferramentas 
 
 ---
 
-### 📫 Como me encontrar
+## 📫 Como Me Encontrar
 
 📧 **carolina.deschamps@sga.pucminas.br**  
 🔗 [LinkedIn](https://www.linkedin.com/in/carolina-deschamps-dos-santos-11b811365)  
 📷 [Instagram](https://www.instagram.com/ds.caroll)  
-📄 [Currículo](https://github.com/carolina879/CarolinadeschampsdosSantosCurriculo.pdf)
+📄 [Currículo (PDF)](https://github.com/carolina879/CarolinadeschampsdosSantosCurriculo.pdf)
 
 ---
 
-⭐ *"Aprender é crescer. E crescer é transformar conhecimento em prática."* 🌸
