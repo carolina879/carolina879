@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Estudante de <strong>Sistemas de Informação</strong> na <strong>PUC Minas</strong>  
-  🌱 Apaixonada por tecnologia, inovação e aprendizado contínuo  
+   Apaixonada por tecnologia, inovação e aprendizado contínuo  
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## 👩‍💻 Sobre mim
 
-Sou estudante de **Sistemas de Informação na PUC Minas**, com interesse em **desenvolvimento web e de sistemas**.  
+Sou estudante de **Sistemas de Informação na PUC Minas**, com interesse em **desenvolvimento web, mobile e de sistemas**.  
 Tenho experiência com **Python, Java, C#, HTML, CSS, JavaScript e PHP**, além de prática com **banco de dados**, **versionamento de código (Git/GitHub)** e **metodologias ágeis**.  
 Sou curiosa, gosto de aprender novas ferramentas e busco crescer na área de TI criando soluções práticas e criativas.
 
@@ -50,19 +50,20 @@ Sou curiosa, gosto de aprender novas ferramentas e busco crescer na área de TI 
 ## 🌟 Repositórios em Destaque
 
 <p align="center">
-  <a href="https://github.com/carolina879/portfolio-site">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carolina879&repo=portfolio-site&theme=tokyonight" alt="Repositório: Portfolio Site" />
+  <a href="https://github.com/carolina879/violencia-domestica-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carolina879&repo=violencia-domestica-&theme=tokyonight" alt="Violência Doméstica" />
   </a>
-  <a href="https://github.com/carolina879/meu-projeto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carolina879&repo=meu-projeto&theme=tokyonight" alt="Repositório: Meu Projeto" />
+  <a href="https://github.com/carolina879/batalha-naval-em-c-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carolina879&repo=batalha-naval-em-c-&theme=tokyonight" alt="Batalha Naval em C" />
   </a>
 </p>
 
 ---
 
-## 🌱 Atualmente Estou Aprendendo
+##  Atualmente Estou Aprendendo
 
 - Desenvolvimento web (HTML, CSS, JavaScript)  
+- Desenvolvimento mobile (Android / iOS)  
 - Lógica de programação e estruturas de dados  
 - Versionamento com Git e GitHub  
 - Boas práticas e metodologias ágeis  
@@ -78,3 +79,6 @@ Sou curiosa, gosto de aprender novas ferramentas e busco crescer na área de TI 
 
 ---
 
+<p align="center">
+  ⭐ <em>"Aprender é crescer. E crescer é transformar conhecimento em prática."</em> 🌸
+</p>
