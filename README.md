@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 estudante de sistemas de informação na puc minas  
-  🌱 apaixonada por tecnologia, inovação e aprendizado contínuo  
+   apaixonada por tecnologia, inovação e aprendizado contínuo  
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 ## 👩‍💻 sobre mim
 
 sou estudante de sistemas de informação na puc minas, com interesse em desenvolvimento web, mobile e de sistemas.  
-💡 curiosa, adoro aprender novas ferramentas e busco criar soluções práticas e criativas para desafios reais.  
+curiosa, adoro aprender novas ferramentas e busco criar soluções práticas e criativas para desafios reais.  
 experiência com python, java, c#, html, css, javascript e php, além de banco de dados, versionamento (git/github) e metodologias ágeis.  
 
 ---
@@ -58,11 +58,7 @@ experiência com python, java, c#, html, css, javascript e php, além de banco d
   </a>
 </p>
 
-### 🌐 projetos ao vivo
-- [Portfolio Pessoal](#) 🔗 (em breve)  
-- [App de Gestão de Tarefas](#) 🔗 (em desenvolvimento)  
 
----
 
 ## 📚 atualmente aprendendo
 
@@ -96,13 +92,9 @@ experiência com python, java, c#, html, css, javascript e php, além de banco d
 
 <p align="center">
   <img src="https://img.shields.io/badge/Prêmio-Melhor%20Trabalho%20Interdisciplinar%20e%20Aplicações%20Web%202025/1-yellow" alt="Prêmio Melhor Trabalho Interdisciplinar 2025/1" />
-  <img src="https://img.shields.io/badge/Concluiu%20Cursos-Python-blue" alt="Curso Python" />
-  <img src="https://img.shields.io/badge/Concluiu%20Cursos-Java-green" alt="Curso Java" />
-  <img src="https://img.shields.io/badge/Participou%20Hackathon-Fevereiro%202024-red" alt="Hackathon" />
+
 </p>
 
 ---
 
-<p align="center">
-  🌸 <em>"aprender é crescer. e crescer é transformar conhecimento em prática."</em> ⭐
-</p>
+
