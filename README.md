@@ -1,8 +1,8 @@
-<h1 align="center">👋 Olá! Eu sou <strong>Carolina Deschamps dos Santos</strong></h1>
+<h1 align="center">👋 olá! eu sou <strong>carolina deschamps dos santos</strong></h1>
 
 <p align="center">
-  💻 Estudante de <strong>Sistemas de Informação</strong> na <strong>PUC Minas</strong>  
-   Apaixonada por tecnologia, inovação e aprendizado contínuo  
+  💻 estudante de <strong>sistemas de informação</strong> na <strong>puc minas</strong>  
+  🌱 apaixonada por tecnologia, inovação e aprendizado contínuo  
 </p>
 
 <p align="center">
@@ -22,63 +22,93 @@
 
 ---
 
-## 👩‍💻 Sobre mim
-
-Sou estudante de **Sistemas de Informação na PUC Minas**, com interesse em **desenvolvimento web, mobile e de sistemas**.  
-Tenho experiência com **Python, Java, C#, HTML, CSS, JavaScript e PHP**, além de prática com **banco de dados**, **versionamento de código (Git/GitHub)** e **metodologias ágeis**.  
-Sou curiosa, gosto de aprender novas ferramentas e busco crescer na área de TI criando soluções práticas e criativas.
-
----
-
-## ⚙️ Tecnologias e Ferramentas
+## 👁 contador de visitas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,cs,git,github,vscode,figma,mysql" alt="Tecnologias" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=carolina879.carolina879" alt="contador de visitas" />
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 👩‍💻 sobre mim
+
+sou estudante de **sistemas de informação na puc minas**, com interesse em **desenvolvimento web, mobile e de sistemas**.  
+💡 curiosa, adoro aprender novas ferramentas e busco criar soluções práticas e criativas para desafios reais.  
+experiência com **python, java, c#, html, css, javascript e php**, além de **banco de dados, versionamento (git/github) e metodologias ágeis**.  
+
+---
+
+## ⚡ tecnologias & ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,cs,git,github,vscode,figma,mysql" alt="tecnologias" />
+</p>
+
+---
+
+## 📊 estatísticas do github
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=carolina879&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub da Carolina" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina879&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=carolina879&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="estatísticas do github" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina879&layout=compact&theme=tokyonight&hide_border=true" alt="linguagens mais usadas" />
 </div>
 
 ---
 
-## 🌟 Repositórios em Destaque
+## 🌟 projetos em destaque
 
 <p align="center">
-  <a href="https://github.com/carolina879/violencia-domestica-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carolina879&repo=violencia-domestica-&theme=tokyonight" alt="Violência Doméstica" />
+  <a href="https://github.com/carolina879/violencia-domestica-" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carolina879&repo=violencia-domestica-&theme=tokyonight" alt="violência doméstica" />
   </a>
-  <a href="https://github.com/carolina879/batalha-naval-em-c-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carolina879&repo=batalha-naval-em-c-&theme=tokyonight" alt="Batalha Naval em C" />
+  <a href="https://github.com/carolina879/batalha-naval-em-c-" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carolina879&repo=batalha-naval-em-c-&theme=tokyonight" alt="batalha naval em c" />
   </a>
 </p>
 
----
-
-##  Atualmente Estou Aprendendo
-
-- Desenvolvimento web (HTML, CSS, JavaScript)  
-- Desenvolvimento mobile (Android / iOS)  
-- Lógica de programação e estruturas de dados  
-- Versionamento com Git e GitHub  
-- Boas práticas e metodologias ágeis  
+### 🌐 projetos ao vivo
+- [Portfolio Pessoal](#) 🔗 (em breve)  
+- [App de Gestão de Tarefas](#) 🔗 (em desenvolvimento)  
 
 ---
 
-## 📫 Como Me Encontrar
+## 📚 atualmente aprendendo
+
+- 🌐 desenvolvimento web avançado (react, node.js)  
+- 📱 desenvolvimento mobile (android / ios com flutter)  
+- 🧩 lógica de programação e estruturas de dados  
+- 🔧 versionamento com git e github  
+- 🛠 boas práticas de ux/ui e metodologias ágeis  
+
+---
+
+## 🎯 objetivos & metas
+
+- contribuir para projetos open-source  
+- desenvolver aplicativos mobile para impacto social  
+- aprimorar habilidades em ux/ui design  
+- expandir conhecimento em cloud e devops  
+
+---
+
+## 📫 como me encontrar
 
 📧 **carolina.deschamps@sga.pucminas.br**  
-🔗 [LinkedIn](https://www.linkedin.com/in/carolina-deschamps-dos-santos-11b811365)  
-📷 [Instagram](https://www.instagram.com/ds.caroll)  
-📄 [Currículo (PDF)](https://github.com/carolina879/CarolinadeschampsdosSantosCurriculo.pdf)
+🔗 [linkedin](https://www.linkedin.com/in/carolina-deschamps-dos-santos-11b811365)  
+📷 [instagram](https://www.instagram.com/ds.caroll)  
+📄 [currículo (pdf)](https://github.com/carolina879/CarolinadeschampsdosSantosCurriculo.pdf)
 
 ---
 
+## 🏆 conquistas
+
 <p align="center">
-  ⭐ <em>"Aprender é crescer. E crescer é transformar conhecimento em prática."</em> 🌸
+  <img src="https://img.shields.io/badge/Concluiu%20Cursos-Python-yellow" alt="Curso Python" />
+  <img src="https://img.shields.io/badge/Concluiu%20Cursos-Java-blue" alt="Curso Java" />
+  <img src="https://img.shields.io/badge/Participou%20Hackathon-Fevereiro%202024-red" alt="Hackathon" />
+  <img src="https://img.shields.io/badge/Top%20Contributor-Github-green" alt="Top Contributor" />
 </p>
+
+---
+
+
