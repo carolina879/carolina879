@@ -1,7 +1,7 @@
-<h1 align="center">👋 olá! eu sou <strong>carolina deschamps dos santos</strong></h1>
+<h1 align="center">👋 olá! eu sou carolina deschamps dos santos</h1>
 
 <p align="center">
-  💻 estudante de <strong>sistemas de informação</strong> na <strong>puc minas</strong>  
+  💻 estudante de sistemas de informação na puc minas  
   🌱 apaixonada por tecnologia, inovação e aprendizado contínuo  
 </p>
 
@@ -22,19 +22,11 @@
 
 ---
 
-## 👁 contador de visitas
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=carolina879.carolina879" alt="contador de visitas" />
-</p>
-
----
-
 ## 👩‍💻 sobre mim
 
-sou estudante de **sistemas de informação na puc minas**, com interesse em **desenvolvimento web, mobile e de sistemas**.  
+sou estudante de sistemas de informação na puc minas, com interesse em desenvolvimento web, mobile e de sistemas.  
 💡 curiosa, adoro aprender novas ferramentas e busco criar soluções práticas e criativas para desafios reais.  
-experiência com **python, java, c#, html, css, javascript e php**, além de **banco de dados, versionamento (git/github) e metodologias ágeis**.  
+experiência com python, java, c#, html, css, javascript e php, além de banco de dados, versionamento (git/github) e metodologias ágeis.  
 
 ---
 
@@ -93,7 +85,7 @@ experiência com **python, java, c#, html, css, javascript e php**, além de **b
 
 ## 📫 como me encontrar
 
-📧 **carolina.deschamps@sga.pucminas.br**  
+📧 carolina.deschamps@sga.pucminas.br  
 🔗 [linkedin](https://www.linkedin.com/in/carolina-deschamps-dos-santos-11b811365)  
 📷 [instagram](https://www.instagram.com/ds.caroll)  
 📄 [currículo (pdf)](https://github.com/carolina879/CarolinadeschampsdosSantosCurriculo.pdf)
@@ -103,12 +95,14 @@ experiência com **python, java, c#, html, css, javascript e php**, além de **b
 ## 🏆 conquistas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Concluiu%20Cursos-Python-yellow" alt="Curso Python" />
-  <img src="https://img.shields.io/badge/Concluiu%20Cursos-Java-blue" alt="Curso Java" />
+  <img src="https://img.shields.io/badge/Prêmio-Melhor%20Trabalho%20Interdisciplinar%20e%20Aplicações%20Web%202025/1-yellow" alt="Prêmio Melhor Trabalho Interdisciplinar 2025/1" />
+  <img src="https://img.shields.io/badge/Concluiu%20Cursos-Python-blue" alt="Curso Python" />
+  <img src="https://img.shields.io/badge/Concluiu%20Cursos-Java-green" alt="Curso Java" />
   <img src="https://img.shields.io/badge/Participou%20Hackathon-Fevereiro%202024-red" alt="Hackathon" />
-  <img src="https://img.shields.io/badge/Top%20Contributor-Github-green" alt="Top Contributor" />
 </p>
 
 ---
 
-
+<p align="center">
+  🌸 <em>"aprender é crescer. e crescer é transformar conhecimento em prática."</em> ⭐
+</p>
