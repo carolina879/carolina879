@@ -22,7 +22,7 @@
 
 ---
 
-##  sobre mim
+## sobre mim
 
 sou estudante de sistemas de informação na puc minas, com interesse em desenvolvimento web, mobile e de sistemas.  
 curiosa, adoro aprender novas ferramentas e busco criar soluções práticas e criativas para desafios reais.  
@@ -30,7 +30,7 @@ experiência com python, java, c#, html, css, javascript e php, além de banco d
 
 ---
 
-##  tecnologias & ferramentas
+## tecnologias & ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,cs,git,github,vscode,figma,mysql" alt="tecnologias" />
@@ -55,6 +55,16 @@ experiência com python, java, c#, html, css, javascript e php, além de banco d
   <a href="https://github.com/carolina879/batalha-naval-em-c-" target="_blank">
     <img src="https://img.shields.io/badge/Projeto-Batalha%20Naval%20em%20C%23-blue?style=for-the-badge&logo=github" />
   </a>
+</p>
+
+---
+
+## 📜 certificados
+
+<p align="center">
+  <img src="25 anos puc sao gabriel.png" width="500"/>
+  <img src="INTELIGÊNCIA ARTIFICIAL PARA PEQUENAS.png" width="500"/>
+  <img src="Certificado.png" width="500"/>
 </p>
 
 ---
@@ -93,14 +103,6 @@ experiência com python, java, c#, html, css, javascript e php, além de banco d
   <a href="https://github.com/carolina879/CarolinadeschampsdosSantosCurriculo.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Currículo-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo" />
   </a>
-</p>
-
----
-
-## 🏆 conquistas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Prêmio-Melhor%20Trabalho%20Interdisciplinar%20e%20Aplicações%20Web%202025/1-yellow" alt="Prêmio Melhor Trabalho Interdisciplinar 2025/1" />
 </p>
 
 ---
