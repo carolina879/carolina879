@@ -38,10 +38,10 @@ experiência com python, java, c#, html, css, javascript e php, além de banco d
 
 ---
 
-## 🐍 atividade no github
+## 📅 atividade no github
 
 <p align="center">
-  <img src="https://github.com/carolina879/carolina879/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://ghchart.rshah.org/blueviolet/carolina879" alt="contribuições" />
 </p>
 
 ---
