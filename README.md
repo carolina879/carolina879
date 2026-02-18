@@ -50,10 +50,10 @@ experiência com python, java, c#, html, css, javascript e php, além de banco d
 
 <p align="center">
   <a href="https://github.com/carolina879/violencia-domestica-" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carolina879&repo=violencia-domestica-&theme=tokyonight" alt="violência doméstica" />
+    <img src="https://img.shields.io/badge/Projeto-Violência%20Doméstica-blueviolet?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/carolina879/batalha-naval-em-c-" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carolina879&repo=batalha-naval-em-c-&theme=tokyonight" alt="batalha naval em c" />
+    <img src="https://img.shields.io/badge/Projeto-Batalha%20Naval%20em%20C%23-blue?style=for-the-badge&logo=github" />
   </a>
 </p>
 
