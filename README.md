@@ -38,12 +38,11 @@ experiência com python, java, c#, html, css, javascript e php, além de banco d
 
 ---
 
-## 📊 estatísticas do github
+## 🐍 atividade no github
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=carolina879&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="estatísticas do github" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina879&layout=compact&theme=tokyonight&hide_border=true" alt="linguagens mais usadas" />
-</div>
+<p align="center">
+  <img src="https://github.com/carolina879/carolina879/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
@@ -57,8 +56,6 @@ experiência com python, java, c#, html, css, javascript e php, além de banco d
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=carolina879&repo=batalha-naval-em-c-&theme=tokyonight" alt="batalha naval em c" />
   </a>
 </p>
-
-
 
 ---
 
@@ -107,4 +104,3 @@ experiência com python, java, c#, html, css, javascript e php, além de banco d
 </p>
 
 ---
-
