@@ -1,9 +1,8 @@
-<h1 align="center">👋 Olá! Eu sou Carolina Deschamps dos Santos</h1>
+<h1 align="center">👋 olá! eu sou carolina deschamps dos santos</h1>
 
 <p align="center">
-💻 Estudante de Sistemas de Informação — PUC Minas <br>
-🚀 Focada em desenvolvimento web, mobile e soluções reais <br>
-🧠 Curiosa profissional em constante evolução
+  💻 estudante de sistemas de informação na puc minas  
+  apaixonada por tecnologia, inovação e aprendizado contínuo  
 </p>
 
 <p align="center">
@@ -16,96 +15,96 @@
   <a href="https://www.instagram.com/ds.caroll" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://github.com/carolina879/CarolinadeschampsdosSantosCurriculo.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo" />
+  </a>
 </p>
+
+---
+
+##  sobre mim
+
+sou estudante de sistemas de informação na puc minas, com interesse em desenvolvimento web, mobile e de sistemas.  
+curiosa, adoro aprender novas ferramentas e busco criar soluções práticas e criativas para desafios reais.  
+experiência com python, java, c#, html, css, javascript e php, além de banco de dados, versionamento (git/github) e metodologias ágeis.  
+
+---
+
+##  tecnologias & ferramentas
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=carolina879&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,cs,git,github,vscode,figma,mysql" alt="tecnologias" />
 </p>
 
 ---
 
-## 🧬 Sobre mim
-
-Sou estudante de Sistemas de Informação na PUC Minas, com forte interesse em desenvolvimento web, mobile e engenharia de software.
-
-Gosto de transformar ideias em soluções práticas e úteis, especialmente quando envolvem impacto social ou melhoria da experiência do usuário.
-
-Tenho experiência com Python, Java, C#, HTML, CSS, JavaScript e PHP, além de banco de dados, Git/GitHub e metodologias ágeis.
-
----
-
-## 🔬 Atualmente construindo
-
-- 💻 Aplicações web com React e Node.js  
-- 📱 Apps mobile com Flutter  
-- 🧠 Projetos focados em lógica e estruturas de dados  
-- 🎨 Evoluindo em UX/UI e arquitetura de software  
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,cs,git,github,vscode,figma,mysql,react,nodejs,flutter" alt="tecnologias" />
-</p>
-
----
-
-## 📊 Estatísticas do GitHub
+## 📊 estatísticas do github
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=carolina879&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina879&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=carolina879&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="estatísticas do github" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina879&layout=compact&theme=tokyonight&hide_border=true" alt="linguagens mais usadas" />
 </div>
 
 ---
 
-## 🌟 Projetos em destaque
+## 🌟 projetos em destaque
 
 <p align="center">
   <a href="https://github.com/carolina879/violencia-domestica-" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carolina879&repo=violencia-domestica-&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carolina879&repo=violencia-domestica-&theme=tokyonight" alt="violência doméstica" />
   </a>
   <a href="https://github.com/carolina879/batalha-naval-em-c-" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carolina879&repo=batalha-naval-em-c-&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=carolina879&repo=batalha-naval-em-c-&theme=tokyonight" alt="batalha naval em c" />
   </a>
 </p>
 
----
 
-## 🎯 Objetivos & Metas
-
-- 🌍 Contribuir para projetos open-source  
-- 📱 Desenvolver aplicativos com impacto social  
-- 🎨 Aprimorar habilidades em UX/UI Design  
-- ☁️ Expandir conhecimento em Cloud e DevOps  
 
 ---
 
-## 🏆 Conquistas
+## 📚 atualmente aprendendo
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Prêmio-Melhor%20Trabalho%20Interdisciplinar%20e%20Aplicações%20Web%202025/1-yellow" />
-</p>
+- 🌐 desenvolvimento web avançado (react, node.js)  
+- 📱 desenvolvimento mobile (android / ios com flutter)  
+- 🧩 lógica de programação e estruturas de dados  
+- 🔧 versionamento com git e github  
+- 🛠 boas práticas de ux/ui e metodologias ágeis  
 
 ---
 
-## 📫 Como me encontrar
+## 🎯 objetivos & metas
+
+- contribuir para projetos open-source  
+- desenvolver aplicativos mobile para impacto social  
+- aprimorar habilidades em ux/ui design  
+- expandir conhecimento em cloud e devops  
+
+---
+
+## 📫 como me encontrar
 
 <p align="center">
   <a href="mailto:carolina.deschamps@sga.pucminas.br">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
   <a href="https://www.linkedin.com/in/carolina-deschamps-dos-santos-11b811365" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/ds.caroll" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/carolina879/CarolinadeschampsdosSantosCurriculo.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo" />
   </a>
 </p>
 
 ---
 
+## 🏆 conquistas
+
 <p align="center">
-✨ Obrigada pela visita! ✨
+  <img src="https://img.shields.io/badge/Prêmio-Melhor%20Trabalho%20Interdisciplinar%20e%20Aplicações%20Web%202025/1-yellow" alt="Prêmio Melhor Trabalho Interdisciplinar 2025/1" />
 </p>
+
+---
+
