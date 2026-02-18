@@ -7,22 +7,22 @@
 
 <p align="center">
   <a href="mailto:carolina.deschamps@sga.pucminas.br">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/carolina-deschamps-dos-santos-11b811365" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/ds.caroll" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://github.com/carolina879/CarolinadeschampsdosSantosCurriculo.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Currículo-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo" />
+    <img src="https://img.shields.io/badge/Currículo-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## sobre mim
+## 👩‍💻 sobre mim
 
 sou estudante de sistemas de informação na puc minas, com interesse em desenvolvimento web, mobile e de sistemas.  
 curiosa, adoro aprender novas ferramentas e busco criar soluções práticas e criativas para desafios reais.  
@@ -30,10 +30,10 @@ experiência com python, java, c#, html, css, javascript e php, além de banco d
 
 ---
 
-## tecnologias & ferramentas
+## 🛠 tecnologias & ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,cs,git,github,vscode,figma,mysql" alt="tecnologias" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,cs,git,github,vscode,figma,mysql" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ experiência com python, java, c#, html, css, javascript e php, além de banco d
 ## 📅 atividade no github
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/blueviolet/carolina879" alt="contribuições" />
+  <img src="https://ghchart.rshah.org/blueviolet/carolina879" />
 </p>
 
 ---
@@ -62,9 +62,17 @@ experiência com python, java, c#, html, css, javascript e php, além de banco d
 ## 📜 certificados
 
 <p align="center">
-  <img src="25 anos puc sao gabriel.png" width="500"/>
-  <img src="INTELIGÊNCIA ARTIFICIAL PARA PEQUENAS.png" width="500"/>
-  <img src="Certificado.png" width="500"/>
+  <img src="https://github.com/user-attachments/assets/8407acdc-1819-4826-8b36-5b8a61d967a7" width="400"/>
+  <img src="https://github.com/user-attachments/assets/3f158d0f-e648-42cb-90d8-cab94338d9aa" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f3c2db01-2cf0-4bcb-b914-5b1916989895" width="400"/>
+  <img src="https://github.com/user-attachments/assets/b85eaa2a-4d94-4b0f-834f-a92b53afa991" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1658b3c0-2643-40a8-9cec-48b5b90d4554" width="400"/>
 </p>
 
 ---
@@ -92,16 +100,16 @@ experiência com python, java, c#, html, css, javascript e php, além de banco d
 
 <p align="center">
   <a href="mailto:carolina.deschamps@sga.pucminas.br">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/carolina-deschamps-dos-santos-11b811365" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/ds.caroll" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://github.com/carolina879/CarolinadeschampsdosSantosCurriculo.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Currículo-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo" />
+    <img src="https://img.shields.io/badge/Currículo-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 
