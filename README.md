@@ -10,7 +10,7 @@
 *  Desenvolvimento frontend e backend
 *  Automação com Python
 *  Experiência com Figma e ArcGIS
-*  Projeto premiado na PUC Minas
+*  Banco de dados 
 *  Tecnologia com impacto social
 *  Sistemas de Informação — PUC Minas
 
