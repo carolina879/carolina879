@@ -1,13 +1,17 @@
+````md
 <div align="center">
 
+<!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,25:12061f,50:2d1b69,75:7c3aed,100:050510&height=320&section=header&text=Carolina%20Deschamps&fontSize=58&fontColor=e9d5ff&fontAlignY=40&desc=Software%20Developer%20in%20Progress%20·%20PUC%20Minas&descAlignY=60&descSize=17&descColor=c4b5fd&animation=twinkling&stroke=8b5cf6&strokeWidth=2"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=700&color=C084FC&center=true&vCenter=true&repeat=true&width=750&height=52&lines=const+carolina+%3D+new+Developer();+%F0%9F%9A%80;Frontend+%7C+Mobile+%7C+UI%2FUX;estudante+de+SI+na+PUC+Minas;criando+projetos+com+impacto+real;always+learning+new+technologies" alt="Typing SVG"/>
+<!-- TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=700&color=C084FC&center=true&vCenter=true&repeat=true&width=750&height=52&lines=const+carolina+%3D+new+Developer();+🚀;Frontend+%7C+Mobile+%7C+UI%2FUX;estudante+de+SI+na+PUC+Minas;criando+projetos+com+impacto+real;always+learning+new+technologies" alt="Typing SVG"/>
 
 <br/><br/>
 
+<!-- CONTATO -->
 <a href="mailto:carolina.deschamps@sga.pucminas.br">
   <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
@@ -31,12 +35,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg"/>
-
-</div>
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
@@ -65,7 +63,7 @@ class Carolina {
 
   status = "Open to opportunities";
 }
-```
+````
 
 <br clear="right"/>
 
@@ -129,7 +127,7 @@ class Carolina {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/carolina879/carolina879/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -168,7 +166,7 @@ status: running...
 
 <br>
 
-<p align="center">
+<div align="center">
 
 <img src="https://github.com/user-attachments/assets/8407acdc-1819-4826-8b36-5b8a61d967a7" width="260"/>
 
@@ -182,9 +180,7 @@ status: running...
 
 <img src="https://github.com/user-attachments/assets/874372a1-1ec7-4995-a5ce-9ab211d36abe" width="260"/>
 
-<img src="https://github.com/user-attachments/assets/c598d663-0d6d-4234-bb37-49e3de952fec" width="260"/>
-
-</p>
+</div>
 
 </details>
 
@@ -196,6 +192,7 @@ status: running...
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,30:2d1b69,70:7c3aed,100:050510&height=170&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:050510,50:7c3aed,100:050510&animation=twinkling"/>
 
 </div>
+```
