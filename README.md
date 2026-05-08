@@ -1,17 +1,19 @@
-````md
 <div align="center">
 
 <!-- HEADER -->
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,25:12061f,50:2d1b69,75:7c3aed,100:050510&height=320&section=header&text=Carolina%20Deschamps&fontSize=58&fontColor=e9d5ff&fontAlignY=40&desc=Software%20Developer%20in%20Progress%20·%20PUC%20Minas&descAlignY=60&descSize=17&descColor=c4b5fd&animation=twinkling&stroke=8b5cf6&strokeWidth=2"/>
 
 <br/>
 
 <!-- TYPING -->
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=700&color=C084FC&center=true&vCenter=true&repeat=true&width=750&height=52&lines=const+carolina+%3D+new+Developer();+🚀;Frontend+%7C+Mobile+%7C+UI%2FUX;estudante+de+SI+na+PUC+Minas;criando+projetos+com+impacto+real;always+learning+new+technologies" alt="Typing SVG"/>
 
 <br/><br/>
 
 <!-- CONTATO -->
+
 <a href="mailto:carolina.deschamps@sga.pucminas.br">
   <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
@@ -63,7 +65,7 @@ class Carolina {
 
   status = "Open to opportunities";
 }
-````
+```
 
 <br clear="right"/>
 
@@ -195,4 +197,3 @@ status: running...
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:050510,50:7c3aed,100:050510&animation=twinkling"/>
 
 </div>
-```
