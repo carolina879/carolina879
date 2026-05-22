@@ -1,7 +1,9 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:a855f7,100:c084fc&height=180&section=header&text=Carolina%20Deschamps&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Sistemas+de+Informação+—+PUC+Minas;Frontend+·+Backend+·+Automação;Tecnologia+com+impacto+real"/>
-</div>
+</div><img width="951" height="677" alt="Captura de tela 2026-05-22 095501" src="https://github.com/user-attachments/assets/970690bc-4652-4d83-92ce-30c2fe5e2fd3" />
+
+
 
 ---
 
@@ -89,6 +91,7 @@
   <img src="https://github.com/user-attachments/assets/874372a1-1ec7-4995-a5ce-9ab211d36abe" width="280"/>
   <img src="https://github.com/user-attachments/assets/c598d663-0d6d-4234-bb37-49e3de952fec" width="280"/>
  <img src="https://github.com/user-attachments/assets/ee8917a9-b7b3-40a5-bd18-8d0c9ca4a0af" width="280"/>
+ <img src="https://github.com/user-attachments/assets/b0cfc867-5d6e-4c87-a7b8-599c72b7054e" width="280"/>
 </div>
 </details>
 
