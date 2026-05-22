@@ -79,7 +79,7 @@
 
 <details>
 <summary><b>ver certificados</b></summary>
-<br>
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/8407acdc-1819-4826-8b36-5b8a61d967a7" width="280"/>
   <img src="https://github.com/user-attachments/assets/3f158d0f-e648-42cb-90d8-cab94338d9aa" width="280"/>
@@ -88,6 +88,7 @@
   <img src="https://github.com/user-attachments/assets/1658b3c0-2643-40a8-9cec-48b5b90d4554" width="280"/>
   <img src="https://github.com/user-attachments/assets/874372a1-1ec7-4995-a5ce-9ab211d36abe" width="280"/>
   <img src="https://github.com/user-attachments/assets/c598d663-0d6d-4234-bb37-49e3de952fec" width="280"/>
+ <img src="https://github.com/user-attachments/assets/ee8917a9-b7b3-40a5-bd18-8d0c9ca4a0af" width="280"/>
 </div>
 </details>
 
