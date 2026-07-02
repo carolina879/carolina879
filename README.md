@@ -93,8 +93,11 @@
   <img src="https://github.com/user-attachments/assets/c598d663-0d6d-4234-bb37-49e3de952fec" width="280"/>
   <img src="https://github.com/user-attachments/assets/ee8917a9-b7b3-40a5-bd18-8d0c9ca4a0af" width="280"/>
   <img src="https://github.com/user-attachments/assets/29fb2500-3e82-4f0e-b9b3-c486e0df0a00" width="280"/>
+
+  <!-- Google I/O abaixo do certificado de Fundamentos de IA no Azure -->
   <br>
   <img src="https://github.com/user-attachments/assets/e679298a-47e5-4c9f-a4e4-7c3e8e039849" width="280"/>
+</div>
 </div>
 </div>
 </details>
