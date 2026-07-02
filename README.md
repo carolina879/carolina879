@@ -82,30 +82,18 @@
 <summary><b>ver certificados</b></summary>
 
 <div align="center">
-
   <img src="https://github.com/user-attachments/assets/8407acdc-1819-4826-8b36-5b8a61d967a7" width="280"/>
   <img src="https://github.com/user-attachments/assets/3f158d0f-e648-42cb-90d8-cab94338d9aa" width="280"/>
   <img src="https://github.com/user-attachments/assets/f3c2db01-2cf0-4bcb-b914-5b1916989895" width="280"/>
-
   <img src="https://github.com/user-attachments/assets/b85eaa2a-4d94-4b0f-834f-a92b53afa991" width="280"/>
   <img src="https://github.com/user-attachments/assets/1658b3c0-2643-40a8-9cec-48b5b90d4554" width="280"/>
   <img src="https://github.com/user-attachments/assets/874372a1-1ec7-4995-a5ce-9ab211d36abe" width="280"/>
-
   <img src="https://github.com/user-attachments/assets/c598d663-0d6d-4234-bb37-49e3de952fec" width="280"/>
   <img src="https://github.com/user-attachments/assets/ee8917a9-b7b3-40a5-bd18-8d0c9ca4a0af" width="280"/>
   <img src="https://github.com/user-attachments/assets/29fb2500-3e82-4f0e-b9b3-c486e0df0a00" width="280"/>
-
+  <img src="https://github.com/user-attachments/assets/e679298a-47e5-4c9f-a4e4-7c3e8e039849" width="280"/>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/e679298a-47e5-4c9f-a4e4-7c3e8e039849" width="420"/>
-</div>
-
 </details>
-
----
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:a855f7,100:c084fc&height=90&section=footer"/>
