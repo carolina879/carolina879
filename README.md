@@ -82,6 +82,7 @@
 <summary><b>ver certificados</b></summary>
 
 <div align="center">
+
   <img src="https://github.com/user-attachments/assets/8407acdc-1819-4826-8b36-5b8a61d967a7" width="280"/>
   <img src="https://github.com/user-attachments/assets/3f158d0f-e648-42cb-90d8-cab94338d9aa" width="280"/>
   <img src="https://github.com/user-attachments/assets/f3c2db01-2cf0-4bcb-b914-5b1916989895" width="280"/>
@@ -94,12 +95,14 @@
   <img src="https://github.com/user-attachments/assets/ee8917a9-b7b3-40a5-bd18-8d0c9ca4a0af" width="280"/>
   <img src="https://github.com/user-attachments/assets/29fb2500-3e82-4f0e-b9b3-c486e0df0a00" width="280"/>
 
-  <!-- Google I/O abaixo do certificado de Fundamentos de IA no Azure -->
-  <br>
-  <img src="https://github.com/user-attachments/assets/e679298a-47e5-4c9f-a4e4-7c3e8e039849" width="280"/>
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e679298a-47e5-4c9f-a4e4-7c3e8e039849" width="420"/>
 </div>
-</div>
+
 </details>
 
 ---
