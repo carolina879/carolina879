@@ -1,3 +1,4 @@
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:a855f7,100:c084fc&height=180&section=header&text=Carolina%20Deschamps&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Sistemas+de+Informação+—+PUC+Minas;Frontend+·+Backend+·+Automação;Tecnologia+com+impacto+real"/>
@@ -91,7 +92,7 @@
   <img src="https://github.com/user-attachments/assets/c598d663-0d6d-4234-bb37-49e3de952fec" width="280"/>
   <img src="https://github.com/user-attachments/assets/ee8917a9-b7b3-40a5-bd18-8d0c9ca4a0af" width="280"/>
   <img src="https://github.com/user-attachments/assets/29fb2500-3e82-4f0e-b9b3-c486e0df0a00" width="280"/>
-  <img src="https://github.com/user-attachments/assets/e679298a-47e5-4c9f-a4e4-7c3e8e039849" width="280"/>
+ <img src="https://github.com/user-attachments/assets/a505a2cb-de4d-44b7-b0fe-e37bbda9fadb" width="240"/>
 </div>
 </details>
 
