@@ -1,72 +1,62 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:a855f7,100:c084fc&height=180&section=header&text=Carolina%20Deschamps&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Sistemas+de+Informa%C3%A7%C3%A3o+%E2%80%94+PUC+Minas;Frontend+%C2%B7+Backend+%C2%B7+Automa%C3%A7%C3%A3o;Tecnologia+com+impacto+real"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:a855f7,100:c084fc&height=180&section=header&text=Carolina%20Deschamps&fontSize=42&fontColor=ffffff" width="100%"/>
 </div>
 
-# Sobre mim
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3200&pause=900&color=C084FC&center=true&vCenter=true&width=650&lines=Sistemas+de+Informacao+%E2%80%94+PUC+Minas;Frontend+%7C+Backend+%7C+Automacao;Tecnologia+com+impacto+social"/>
+</div>
 
-* Desenvolvimento frontend e backend
-* Automação com Python
-* Experiência com Figma e ArcGIS
-* Banco de dados
-* Tecnologia com impacto social
-* Sistemas de Informação — PUC Minas
+<br>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=carolina879&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carolina879&layout=compact&theme=tokyonight&hide_border=true"/>
+  <a href="https://www.linkedin.com/in/carolina-deschamps-dos-santos-11b811365/"><img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:caroldeschampsdossantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/carolina879"><img src="https://img.shields.io/badge/GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 ---
 
-# Contato
+## Sobre mim
+
+Estudante de Sistemas de Informação na PUC Minas, com interesse em construir soluções que resolvam problemas reais.
+
+| Área | O que eu faço |
+| :--- | :--- |
+| Desenvolvimento | Aplicações web com frontend e backend |
+| Automação | Scripts e rotinas em Python |
+| Dados | Modelagem e consultas em bancos relacionais |
+| Design | Protótipos e interfaces no Figma |
+| Geoprocessamento | Análise e mapas com ArcGIS |
+
+---
+
+## Stack
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/carolina-deschamps-dos-santos-11b811365/"><img src="https://img.shields.io/badge/-LinkedIn-a855f7?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:caroldeschampsdossantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-a855f7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/carolina879"><img src="https://img.shields.io/badge/-GitHub-a855f7?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,bootstrap,python,java,cs,mysql,git,figma&theme=dark"/>
 </div>
 
 ---
 
-# Stack & Ferramentas
+## Projetos em destaque
+
+| Projeto | Descrição |
+| :--- | :--- |
+| [Grupo Violência Doméstica](https://github.com/carolina879/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica) | Projeto em grupo de Tecnologias de Internet e Aplicações Web, com foco em impacto social |
+| [Batalha Naval em C](https://github.com/carolina879/batalha-naval-em-c-) | Jogo de batalha naval desenvolvido em linguagem C |
+
+---
+
+## GitHub
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cs,react,nodejs,mysql,bootstrap,figma,git&theme=dark"/>
+  <img src="https://img.shields.io/github/followers/carolina879?style=for-the-badge&color=7c3aed&labelColor=1e1b4b"/>
+  <img src="https://img.shields.io/github/stars/carolina879?affiliations=OWNER&style=for-the-badge&color=7c3aed&labelColor=1e1b4b"/>
 </div>
 
 ---
 
-# Estatísticas
-
-<div align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=carolina879&theme=tokyonight&hide_border=true"/>
-  <br><br>
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=carolina879&bg_color=0d1117&color=a855f7&line=c084fc&point=ffffff&area=true&hide_border=true"/>
-</div>
-
----
-
-# Projetos em destaque
-
-<div align="center">
-  <a href="https://github.com/carolina879/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=carolina879&repo=psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica&theme=tokyonight&hide_border=true"/></a>
-  <br><br>
-  <a href="https://github.com/carolina879/batalha-naval-em-c-"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=carolina879&repo=batalha-naval-em-c-&theme=tokyonight&hide_border=true"/></a>
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/carolina879/carolina879/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
----
-
-# Certificados
+## Certificados
 
 <details>
 <summary><b>ver certificados</b></summary>
@@ -89,6 +79,8 @@
 
 </details>
 
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:a855f7,100:c084fc&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:a855f7,100:c084fc&height=90&section=footer" width="100%"/>
 </div>
