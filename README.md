@@ -1,170 +1,157 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:a855f7,100:c084fc&height=200&section=header&text=Carolina%20Deschamps&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8a0b4,55:c9788a,100:8e4a64&height=200&section=header&text=Carolina%20Deschamps&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3200&pause=900&color=C084FC&center=true&vCenter=true&width=700&lines=Sistemas+de+Informacao+%E2%80%94+PUC+Minas;Frontend+%7C+Backend+%7C+Automacao;Transformando+ideias+em+projetos;Tecnologia+com+impacto+real"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3200&pause=900&color=C9788A&center=true&vCenter=true&width=700&lines=Transformando+ideias+ca%C3%B3ticas+em+c%C3%B3digo;Tecnologia+com+impacto+real;Sistemas+de+Informa%C3%A7%C3%A3o+%E2%80%94+PUC+Minas"/>
 
 <br>
 
-<a href="https://www.linkedin.com/in/carolina-deschamps-dos-santos-11b811365/">
-<img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:caroldeschampsdossantos@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/carolina879">
-<img src="https://img.shields.io/badge/GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://portifolio-steel-beta-14.vercel.app/"><img src="https://img.shields.io/badge/PORTFÓLIO-c9788a?style=for-the-badge&logo=vercel&logoColor=white"/></a> <a href="https://www.linkedin.com/in/carolina-deschamps-dos-santos-11b811365/"><img src="https://img.shields.io/badge/LinkedIn-e8a0b4?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:caroldeschampsdossantos@gmail.com"><img src="https://img.shields.io/badge/E--mail-c9788a?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="./CV-Carolina-Deschamps.pdf"><img src="https://img.shields.io/badge/CURRÍCULO-8e4a64?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 
 <br><br>
 
-<a href="https://portifolio-steel-beta-14.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFÓLIO-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="./CV-Carolina-Deschamps.pdf">
-<img src="https://img.shields.io/badge/BAIXAR%20CV-a855f7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
 </div>
 
----
+<br>
 
-## Sobre mim
+## Projetos
 
-Sou estudante de Sistemas de Informação na PUC Minas, interessada em desenvolvimento de software, automação e criação de produtos digitais.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Gosto de transformar ideias em projetos funcionais, explorando diferentes tecnologias para resolver problemas reais.
+### Escuta Amiga
+Plataforma com foco em impacto social, criada para auxiliar vítimas de violência doméstica por meio da tecnologia. Reconhecida como **Melhor Trabalho**.
 
-Tenho experiência acadêmica e prática com desenvolvimento web, Python, bancos de dados, automação, geoprocessamento e prototipação de interfaces.
+![HTML](https://img.shields.io/badge/HTML-c9788a?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-c9788a?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-c9788a?style=flat-square)
 
----
+[Código](https://github.com/carolina879/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica)
 
-## Áreas de interesse
+</td>
+<td width="50%" valign="top">
 
-**Desenvolvimento Web**
+### AIR DRAW
+Aplicação web interativa que explora novas formas de interação entre pessoas e computadores por meio da visão computacional: desenhe no ar usando as mãos.
 
-Construção de aplicações frontend e backend, APIs e sistemas web.
+![HTML5](https://img.shields.io/badge/HTML5-c9788a?style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-c9788a?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-c9788a?style=flat-square)
+![MediaPipe Hands](https://img.shields.io/badge/MediaPipe_Hands-e8a0b4?style=flat-square)
+![Canvas API](https://img.shields.io/badge/Canvas_API-e8a0b4?style=flat-square)
 
-**Automação**
+[Código](https://github.com/carolina879/AIR-DRAW)
 
-Desenvolvimento de scripts e soluções para automatizar tarefas e processos.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Dados**
+### LORAC
+Ecossistema digital em desenvolvimento, criado para unir tecnologia, colaboração, aprendizado e inovação em uma única plataforma.
 
-Manipulação, organização e análise de dados utilizando Python e bancos relacionais.
+![React](https://img.shields.io/badge/React-c9788a?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-c9788a?style=flat-square)
+![Python](https://img.shields.io/badge/Python-c9788a?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-c9788a?style=flat-square)
+![APIs](https://img.shields.io/badge/APIs-e8a0b4?style=flat-square)
+![IA](https://img.shields.io/badge/Inteligência_Artificial-e8a0b4?style=flat-square)
 
-**Algoritmos**
+[Código](https://github.com/carolina879/lorac)
 
-Estudo e implementação de estruturas de dados, algoritmos e resolução de problemas.
+</td>
+<td width="50%" valign="top">
 
-**UI/UX**
+### Batalha Naval em C#
+Desenvolvido na disciplina de Algoritmos e Técnicas de Programação, aplicando na prática conceitos fundamentais da programação e do desenvolvimento de software.
 
-Criação de interfaces e protótipos com foco em usabilidade e experiência do usuário.
+![C#](https://img.shields.io/badge/C%23-c9788a?style=flat-square)
+![POO](https://img.shields.io/badge/Programação_Orientada_a_Objetos-e8a0b4?style=flat-square)
+![Algoritmos](https://img.shields.io/badge/Algoritmos-e8a0b4?style=flat-square)
 
-**Geoprocessamento**
+[Código](https://github.com/carolina879/batalha-naval-em-c-)
 
-Utilização de ferramentas e dados geográficos para análise e visualização.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### HandPuzzle
+Projeto interativo com reconhecimento de mãos, explorando visão computacional para criar novas formas de interação na web.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-c9788a?style=flat-square)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-e8a0b4?style=flat-square)
+
+[Testar online](https://hand-puzzle-coral.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### Movia
+Sistema de navegação que usa dados do OpenStreetMap e o algoritmo A* para calcular caminhos.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-c9788a?style=flat-square)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-e8a0b4?style=flat-square)
+![A*](https://img.shields.io/badge/Algoritmo_A*-e8a0b4?style=flat-square)
+
+[Testar online](https://movia-i2k4.onrender.com/)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Formação & Agora
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Bacharelado em Sistemas de Informação
+**PUC Minas** · Belo Horizonte, MG  
+2025 — presente
+
+- Formação em desenvolvimento de software, banco de dados e arquitetura de sistemas
+- Projetos práticos com foco em impacto social, com destaque para o Escuta Amiga (Melhor Trabalho)
+- Estudando Spring Boot, Arquitetura de Software e Inteligência Artificial
+
+</td>
+<td width="50%" valign="top">
+
+### Atualmente construindo
+**Projetos em andamento** · Remoto  
+2025 — presente
+
+- Lorac: ecossistema digital de inovação e colaboração
+- Explorando soluções com Inteligência Artificial
+- Estudando Spring Boot e Arquitetura de Software
+- Desenvolvendo projetos Full Stack com React e Node.js
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ## Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,bootstrap,python,java,cs,mysql,git,github,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap,mui,jquery,electron,threejs&theme=light"/>
+<br>
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,java,cs,cpp,dart,graphql,tensorflow&theme=light"/>
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,docker,aws,git,github,postman,npm,figma,notion&theme=light"/>
 
 </div>
 
----
-
-## Projetos em destaque
-
-### Lorac
-
-Plataforma educacional desenvolvida para tornar o estudo mais colaborativo e interativo.
-
-O projeto reúne recursos como salas de estudo, chat, ferramentas colaborativas, flashcards, calendário, fórum e funcionalidades voltadas para estudantes.
-
-**Tecnologias:** Python, FastAPI, HTML, CSS e JavaScript.
-
-[Ver projeto](https://github.com/carolina879/lorac)
-
----
-
-### AIR DRAW
-
-Aplicação web que utiliza reconhecimento de mãos para permitir que o usuário desenhe utilizando movimentos no ar.
-
-O projeto explora visão computacional e interação natural em aplicações web.
-
-**Tecnologias:** JavaScript, MediaPipe Hands e Canvas API.
-
-[Ver projeto](https://github.com/carolina879/AIR-DRAW)
-
----
-
-### HandPuzzle
-
-Projeto interativo baseado em reconhecimento de mãos, explorando a utilização de visão computacional para criar novas formas de interação com aplicações web.
-
-**Tecnologias:** JavaScript, MediaPipe e tecnologias web.
-
-[Ver projeto](https://hand-puzzle-coral.vercel.app/)
-
----
-
-### Movia
-
-Sistema de navegação desenvolvido utilizando dados do OpenStreetMap e o algoritmo A* para cálculo de caminhos.
-
-**Tecnologias:** JavaScript, OpenStreetMap e Algoritmo A*.
-
----
-
-### Batalha Naval em C
-
-Jogo de batalha naval desenvolvido em linguagem C como projeto acadêmico, explorando lógica de programação e estruturas fundamentais da linguagem.
-
-[Ver projeto](https://github.com/carolina879/batalha-naval-em-c-)
-
----
-
-### Grupo Violência Doméstica
-
-Projeto acadêmico desenvolvido em grupo com foco na utilização da tecnologia para abordar uma questão de impacto social.
-
-[Ver projeto](https://github.com/carolina879/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica)
-
----
-
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=carolina879&show_icons=true&hide_border=true&title_color=a855f7&icon_color=c084fc&text_color=ffffff&bg_color=0d1117" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina879&layout=compact&hide_border=true&title_color=a855f7&text_color=ffffff&bg_color=0d1117" height="170"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=carolina879&theme=dark&hide_border=true&ring=a855f7&fire=c084fc&currStreakLabel=c084fc"/>
-
-</div>
-
----
-
-## Atualmente
-
-Estou aprofundando meus conhecimentos em desenvolvimento de software, algoritmos, estruturas de dados, automação e desenvolvimento de produtos digitais.
-
-Também continuo desenvolvendo projetos próprios para aplicar na prática os conhecimentos adquiridos durante minha formação.
-
----
+<br>
 
 ## Certificados
 
 <details>
-
 <summary><b>Ver certificados</b></summary>
 
 <br>
@@ -187,10 +174,16 @@ Também continuo desenvolvendo projetos próprios para aplicar na prática os co
 
 </details>
 
----
+<br>
+
+## Vamos conversar
+
+Estou sempre aberta a novas oportunidades, colaborações e ideias.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:a855f7,100:c084fc&height=100&section=footer" width="100%"/>
+<a href="mailto:caroldeschampsdossantos@gmail.com"><img src="https://img.shields.io/badge/Enviar_e--mail-c9788a?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/carolina879"><img src="https://img.shields.io/badge/Ver_perfil-8e4a64?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/carolina-deschamps-dos-santos-11b811365/"><img src="https://img.shields.io/badge/Conectar-e8a0b4?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="./CV-Carolina-Deschamps.pdf"><img src="https://img.shields.io/badge/Baixar_currículo_PDF-c9788a?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8a0b4,55:c9788a,100:8e4a64&height=100&section=footer" width="100%"/>
 
 </div>
